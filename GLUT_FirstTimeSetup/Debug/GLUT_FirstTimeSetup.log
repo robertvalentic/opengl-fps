@@ -1,0 +1,4 @@
+﻿  GLUT_FirstTimeSetup.cpp
+D:\dev\OpenGL\GLUT_FirstTimeSetup\GLUT_FirstTimeSetup\GLUT_FirstTimeSetup.cpp(35,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\dev\OpenGL\GLUT_FirstTimeSetup\GLUT_FirstTimeSetup\GLUT_FirstTimeSetup.cpp(139,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  GLUT_FirstTimeSetup.vcxproj -> D:\dev\OpenGL\GLUT_FirstTimeSetup\Debug\GLUT_FirstTimeSetup.exe
